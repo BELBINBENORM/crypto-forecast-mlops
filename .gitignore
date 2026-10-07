@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+
+# Raw market data is kept outside Git.
+data/raw/
